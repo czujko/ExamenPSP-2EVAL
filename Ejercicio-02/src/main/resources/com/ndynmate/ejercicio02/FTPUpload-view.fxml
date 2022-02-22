@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="220.0" prefWidth="391.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ndynmate.ejercicio02.FTPUploadController">
+   <children>
+      <TextArea fx:id="txtArea" layoutX="14.0" layoutY="14.0" prefHeight="160.0" prefWidth="363.0" promptText="Escribe el texto aquí..." />
+      <Button fx:id="btnGuardar" layoutX="253.0" layoutY="184.0" mnemonicParsing="false" onAction="#guardarTxt" text="Guardar" />
+      <Button fx:id="btnUpload" layoutX="318.0" layoutY="184.0" mnemonicParsing="false" onAction="#enviarFTP" prefHeight="25.0" prefWidth="59.0" text="Upload" />
+   </children>
+</AnchorPane>

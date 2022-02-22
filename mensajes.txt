@@ -1,0 +1,12 @@
+Todos los mensajes
+Contenido: Re: Mail Subject
+Pepe Grillo <czujko@gmail.com>
+Recibido
+
+El jue, 3 feb 2022 a las 8:48, <gustavogarcia@microinformaticos.com> escribió:
+>
+> This is my first email using JavaMailer
+The Last Mail
+gustavogarcia@microinformaticos.com
+
+jara jara jara
